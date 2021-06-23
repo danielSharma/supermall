@@ -128,13 +128,13 @@
       })
 
       this.scroll.on('pullingUp', () => {
-        console.log('上拉加载更多');
+        // console.log('上拉加载更多');
       })
 
     },
     methods: {
       btnClick() {
-        console.log('btnClick');
+        // console.log('btnClick');
       }
     }
   }
